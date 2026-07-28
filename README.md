@@ -1,20 +1,24 @@
 # 🚀 DSA Algorithm Handbook
 
-A structured collection of **Data Structures & Algorithms** implemented in **C++**, built while learning DSA from scratch.
+A comprehensive collection of **Data Structures & Algorithms** implemented in **C++**, created while learning DSA from scratch.
 
-This repository is designed as a personal handbook where every algorithm is documented with its approach, implementation, complexity analysis, and important interview notes. The goal is not just to solve problems but to understand the underlying concepts and build a strong foundation in DSA.
+This repository serves as a personal handbook where every topic is documented with clear explanations, multiple approaches (Brute, Better, Optimal whenever applicable), clean implementations, complexity analysis, dry runs, and interview insights.
+
+The goal is not just to solve problems but to understand the intuition behind every algorithm and build a strong foundation for coding interviews and competitive programming.
 
 ---
 
 ## ✨ Features
 
-- 📖 Step-by-step algorithm explanations
-- 💡 Intuition & approach for every algorithm
-- 💻 Clean C++ implementations
-- 🔍 Dry runs for better understanding
+- 📖 Beginner-friendly explanations
+- 💡 Intuition behind every algorithm
+- ⚡ Brute, Better & Optimal approaches (where applicable)
+- 💻 Clean and well-commented C++ implementations
+- 🔍 Step-by-step dry runs
 - ⏱️ Time & Space Complexity analysis
 - 🎯 Interview-focused notes
 - 📂 Well-organized topic-wise structure
+- 📈 Continuously growing repository
 
 ---
 
@@ -33,58 +37,29 @@ DSA-Algorithm-Handbook/
 ├── Trees/
 ├── Graphs/
 ├── Dynamic Programming/
-└── ...
+├── Greedy/
+├── Backtracking/
+├── Tries/
+├── Segment Tree/
+├── Disjoint Set Union/
+└── More...
 ```
 
-More topics will be added as I continue my DSA journey.
-
 ---
 
-## 📚 Topics Covered
+## 📚 What You'll Find
 
-### ✅ Arrays
+Each topic contains:
 
-- Array Reversal
-- Array Rotation
-- Kadane's Algorithm
-- Moore's Voting Algorithm
-- Next Permutation
-- Matrix Multiplication
-- Rotate Matrix by 90°
-- Matrix Transpose
-- Spiral Matrix Traversal
-
-### 🚧 Coming Soon
-
-- Binary Search
-- Recursion
-- Sorting
-- Strings
-- Linked List
-- Stack
-- Queue
-- Trees
-- Binary Search Trees
-- Heap
-- Graphs
-- Greedy Algorithms
-- Backtracking
-- Dynamic Programming
-- Tries
-- Segment Trees
-- Disjoint Set Union (DSU)
-
----
-
-## 📝 Every Algorithm Includes
-
-- Algorithm
-- Approach
-- C++ Implementation
-- Dry Run
-- Time Complexity
-- Space Complexity
-- Key Interview Points
+- 📌 Problem Statement
+- 💭 Intuition
+- 📝 Algorithm
+- ⚡ Brute / Better / Optimal Approaches
+- 💻 C++ Implementation
+- 🔍 Dry Run
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+- 🎯 Interview Tips
 
 ---
 
@@ -96,20 +71,34 @@ More topics will be added as I continue my DSA journey.
 
 ## 🎯 Purpose
 
-This repository is created to:
+This repository is built to:
 
 - Strengthen DSA fundamentals
 - Build a structured revision handbook
 - Prepare for coding interviews
-- Track my learning progress
-- Share beginner-friendly algorithm notes
+- Track my learning journey
+- Share beginner-friendly DSA resources
 
 ---
 
-## ⭐ If You Find This Repository Helpful
+## 📈 Repository Progress
 
-If this repository helps you learn, revise, or prepare for coding interviews, please consider giving it a **⭐ Star**.
+This repository is continuously updated as I learn new topics and solve more problems. New algorithms, data structures, and interview patterns will be added over time.
 
-Your support motivates me to keep improving this handbook and adding more algorithms.
+---
 
-**Happy Coding! 🚀**
+## 🤝 Contributions
+
+Suggestions for improving explanations, code quality, or documentation are always welcome. Feel free to open an issue or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful for learning, revision, or interview preparation, consider giving it a **⭐ Star**.
+
+Your support motivates me to keep improving this handbook and adding more quality content.
+
+---
+
+# Happy Coding! 🚀

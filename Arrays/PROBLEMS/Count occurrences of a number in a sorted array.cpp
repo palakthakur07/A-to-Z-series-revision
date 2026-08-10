@@ -70,4 +70,4 @@ public:
 
         return ans.second - ans.first + 1;
     }
-}
+};
